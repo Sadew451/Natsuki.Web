@@ -2,7 +2,7 @@
 <b>
 Website for <a href="https://t.me/TheNatsukiBot">Natsuki Telegram bot</a>.
 <br>
-  Link is at the <a href="https://github.com/Sadew451/Natsuki.Web#The--end">of this text</a>.</b>
+  Link is at the <a href="https://github.com/Sadew451/Natsuki.Web#the-end">of this text</a>.</b>
 <hr>
 
 # Laguages
