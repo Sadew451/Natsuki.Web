@@ -25,7 +25,7 @@ Website for <a href="https://t.me/TheNatsukiBot">Natsuki Telegram bot</a>.
       <a href="https://t.me/TeamNatsuki">Team Natsuki</a>
     </li>
     <li>
-      <a href="https://t.me/Im_SADEW">𝙎𝘼𝘿𝙀𝙒 𝙅𝘼 🇱🇰</a>
+      <a href="https://t.me/Itz_Sadew">Sᴀᴅᴇᴡ ᴊᴀ 🇱🇰</a>
     </li>
     <li>
       <a href="https://t.me/InduwaraOS1">෴🅸🅽🅳🆄🆆🅰️🆁🅰️෴</a>
